@@ -14,18 +14,18 @@ Me interesa el desarrollo de software, especialmente el backend.
 const fede = {
   ubicacion: "Buenos Aires, Argentina",
   formacion: [
-    "Licenciatura en Ciencias de la Computación — UBA (En curso)",
-    "Tecnicatura en Programación — UTN (En curso)",
+    "Licenciatura en Ciencias de la Computacion — UBA (En curso)",
+    "Tecnicatura en Programacion — UTN (En curso)",
     "Curso Backend Java / Spring - Talento Tech (En curso)"
   ],
   intereses: [
-    "Frontend",
     "Backend",
-    "Bases de datos"
+    "APIs",
+    "Linux"
   ],
   aprendiendo: [
     "Java",
-    "Spring"
+    "Ecosistema Spring"
   ],
   disponibilidad: "Abierto a nuevas oportunidades"
 };
@@ -65,9 +65,10 @@ const fede = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="center"><b>Herramientas</b></p>
+<p align="center"><b>Entorno y Herramientas</b></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
